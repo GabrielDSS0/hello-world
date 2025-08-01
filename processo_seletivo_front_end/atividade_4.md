@@ -4,7 +4,7 @@ O intuito dessa atividade é consolidar a prática do desenvolvimento usando HTM
 
 Então nessa semana eu vou apenas passar um template para vocês transformá-lo em uma página com os conhecimentos adquiridos nas últimas 3 atividades.
 
-Os arquivos de referência para fazer o site estão no link abaixo:
+Os arquivos de referência para fazer o site estão no link abaixo (utilizem o email institucional da Unesp para obter o acesso direto):
 https://drive.google.com/drive/folders/14nAxFYEYf8OZCftYCuZSDBhw7qVhrW1Z?usp=sharing
 
 ### Template da página
