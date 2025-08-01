@@ -7,7 +7,7 @@ A atividade será efetuar a manipulação do DOM necessária para adicionar duas
 Para utilizar a máscara de input, utilizaremos a biblioteca Vanilla Masker, que é muito simples de usar.
 Link da documentação do Vanilla Masker: https://vanilla-masker.github.io/vanilla-masker/
 
-Baixando e salvando o arquivo .js da `development version`, basta importá-lo no HTML como script e adicionar o seguinte código ao JavaScript do site para adicionar uma máscara ao input do telefone:
+Baixando e salvando o arquivo .js da _development version_, basta importá-lo no HTML como script e adicionar o seguinte código ao JavaScript do site para adicionar uma máscara ao input do telefone:
 
 ```javascript
 VMasker(document.querySelector('#phone')).maskPattern('(99) 9999-9999');
@@ -42,4 +42,4 @@ document.querySelectorAll('a[href^="#"]').forEach(function (element) {
 });
 ```
 
-OBS: Se o scroll ainda não estiver macio, isto é, ainda for diretamente para a seção sem animação alguma, isto provavelmente é sinal de que seu navegador está configurado para não utilizá-lo ou então não o suporta. No primeiro caso, basta verificar e alterar as configurações e flags relacionadas a `smooth scrool` do navegador que você utiliza, ou então utilizar outro, no segundo caso.
+OBS: Se o scroll ainda não estiver macio, isto é, ainda for diretamente para a seção sem animação alguma, isto provavelmente é sinal de que seu navegador está configurado para não utilizá-lo ou então não o suporta. No primeiro caso, basta verificar e alterar as configurações e flags relacionadas a _smooth scrool_ do navegador que você utiliza, ou então utilizar outro, no segundo caso.
