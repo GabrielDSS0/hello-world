@@ -42,4 +42,4 @@ document.querySelectorAll('a[href^="#"]').forEach(function (element) {
 });
 ```
 
-OBS: Se o scroll ainda não estiver macio, isto é, ainda for diretamente para a seção sem animação alguma, isto provavelmente é sinal de que seu navegador está configurado para não utilizá-lo ou então não o suporta. No primeiro caso, basta verificar e alterar as configurações e flags relacionadas a _smooth scrool_ do navegador que você utiliza, ou então utilizar outro, no segundo caso.
+OBS: Se o scroll ainda não estiver macio, isto é, ainda for diretamente para a seção sem animação alguma, isto provavelmente é sinal de que seu navegador está configurado para não utilizá-lo ou então não o suporta. No primeiro caso, basta verificar e alterar as configurações e flags relacionadas a _smooth scroll_ do navegador que você utiliza, ou então utilizar outro, no segundo caso.
